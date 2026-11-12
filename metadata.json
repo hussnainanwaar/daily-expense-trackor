@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise",
+  "description": "Intelligent daily expense tracking assistant with natural language & voice parsing, budget alerts, and spending analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
